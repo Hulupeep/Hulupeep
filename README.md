@@ -1,9 +1,9 @@
 Colm Byrne
 👋 Hello, World!
-I'm Colm, a product manager consultant with a passion for innovation, education, and the arts. Welcome to my GitHub profile!
+I'm Colm, a indie product manager consultant keen on innovation, education, and the arts. Welcome to my GitHub profile!
 🚀 About Me
 
-🏢 Product Manager Consultant with extensive experience in various industries
+🏢 Product Manager Consultant with extensive experience in various industries from Apple to Zenon
 🎓 Founder of LearnCan, pioneering EdTech through curriculum-driven tools
 🎭 Playwright with produced works
 🌱 Always learning and exploring new technologies
@@ -21,8 +21,7 @@ If you have an exciting project in any of these fields, feel free to reach out!
 🎨 Beyond Tech
 When I'm not immersed in product management or EdTech, you might find me:
 
-✍️ Writing plays
-🎭 Attending theater performances
+ 
 📚 Exploring new ideas in education and technology
 
 📫 Get in Touch
