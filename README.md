@@ -3,6 +3,8 @@
 # 👋 Hey, I’m Colm Byrne  
 Founder of *The Ladder*, author of *Superpowered*, and builder of things that help people finish what matters.
 
+HuluPeep = fuses "hulu"— (from hula, the circular dance) and peep  = people.  It signifies a community engaged in a synchronized dance of innovation. Each individual, like a dancer in a hula circle, contributes a unique, but  harmonized, danace to propels collective creativity forward.
+
 ---
 
 ## 🚀 About Me  
